@@ -1,4 +1,4 @@
-# shimrit-ex3 http server <br />
+# http server <br />
 
 Author: @Asaf Joseph <br />
 
