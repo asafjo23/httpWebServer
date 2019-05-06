@@ -36,9 +36,4 @@ NOTICE: <br />
 At the main function, lines: 699, 714, 715 are comment out, this lines will allow you to test the server on LAN Network, if you want to do so please: <br />
 comment out the following line, add your LAN IP adrees instead of mine, and run the binary again. <br />
 
-The project can be fount at my git: <br />
-https://github.com/asaf4me/shimrit-ex3 <br />
-
-As usual, I hope you will find this fun and usefull, for any more contact im here: asaf4me@gmail.com. <br />
-
 FREE FOR USE
